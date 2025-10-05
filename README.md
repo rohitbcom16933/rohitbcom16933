@@ -36,8 +36,8 @@
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohit-kumar-5b556a307/)  
-- 📧 Email: your-email@example.com  
-- 🌐 [GitHub](#)  
+- 📧 Email: rk200472580@gmail.com  
+- 🌐 [GitHub](https://github.com/rohitbcom16933/rohitbcom16933)
 
 ---
 
