@@ -35,9 +35,9 @@
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](#)  
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 🌐 [Portfolio / GitHub](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-kumar-5b556a307/)  
+- 📧 Email: your-email@example.com  
+- 🌐 [GitHub](#)  
 
 ---
 
